@@ -19,7 +19,7 @@ public class Principal extends JFrame implements ActionListener{
       
 	public Principal() {
 	
-	 setTitle("Ventana INICIAL.");
+	 setTitle("Ventana INICAL.");
      setLayout(null);
 	 setSize(450, 250);
 	           
